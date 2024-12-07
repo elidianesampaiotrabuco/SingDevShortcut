@@ -1,0 +1,1 @@
+A Simple Mod that adds a button to your home screen that when clicked, opens the Sing Developments website in your default browser.
