@@ -13,7 +13,7 @@ class $modify(MyAwesomeModification, MenuLayer) {
     // Function to handle the button click
     void onMyButton(CCObject* target) {
         // Open the URL in the default browser
-        std::system("explorer https://singdev.wixsite.com/sing-developments");
+        std::system("start https://singdev.wixsite.com/sing-developments");
     }
 
     // Function to initialize the menu layer
