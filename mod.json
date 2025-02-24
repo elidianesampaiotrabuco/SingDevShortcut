@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.2.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "singdevelopments.singdevshortcut",
 	"name": "SingDevShortcut",
-	"version": "v1.0.0",
-	"developer": "SingDevelopments",
+	"version": "v1.0.1",
+	"developers": ["SingDevelopments","ASTerisk"],
 	"description": "A Simple Mod that adds a button to your home screen that when clicked, opens the Sing Developments website in your default browser."
 }
